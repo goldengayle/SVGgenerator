@@ -5,7 +5,7 @@ This project is a logo generator to make a simple SVG file, which will format in
 ## Usage
 AS A USER I want to save time when making simple logos by havingan SVG file generated automatically through a commandline interface.
 <img src="examples/SVGgeneratorAPPimage.png" alt="screenshot of application">
-  <a href= "https://drive.google.com/file/d/1vn0xBEuC7i-7j-k5KmqXgThsXY7nPsd1/view"> Link for video Explanation </a>
+  <a href= "https://drive.google.com/file/d/1mIhwfCKPpSGla_orYhxqc2HyiJb2Qs4o/view"> Link for video Explanation </a>
 
 
 ## Installation
