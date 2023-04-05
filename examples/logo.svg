@@ -1,1 +1,1 @@
-<svg width="300" height="200"><polygon points="150,0 0,340 300,340" style= "fill:pink"></polygon><text x="150" y="125" text-anchor="middle"  fill="Red" font-weight="bold" font-size="2em">GCP</text></svg>
+<svg width="300" height="200"><rect x="0" y="0" width="150" height="150" style="fill:pink" /><text x="75" y="75" text-anchor="middle" fill="Red" font-weight="bold" font-size="2em">BLT</text></svg>
