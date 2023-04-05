@@ -4,7 +4,7 @@
 This project is a logo generator to make a simple SVG file, which will format information  from a commandline interface to make a 3 character logo  - in ne of three shapes with variable color options.
 ## Usage
 AS A USER I want to save time when making simple logos by havingan SVG file generated automatically through a commandline interface.
-<img src="" alt="screenshot of application">
+<img src="examples/SVGgeneratorAPPimage.png" alt="screenshot of application">
   <a href= ""> Link for video Explanation </a>
 
 
